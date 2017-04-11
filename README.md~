@@ -1,0 +1,1 @@
+At our Seder last night someone mentioned that the quadratic-growth songs (Echad Mi Yodea, Chad Gadya) should really be written in code as nested loops - he complained that any other way of writing them out isn't clear enough. So, just for fun, here's one!
