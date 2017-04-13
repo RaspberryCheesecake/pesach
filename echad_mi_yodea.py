@@ -1,11 +1,11 @@
-heb_nums = ["echad", "shni'im", "shlosha", "arba", "chamisha", "shisha",\
-            "shmonah", "tish'ah", "asara", "acad asar", "shneim asar",\
-            "shlosha asar"]
+heb_nums = ["echad", "shnei", "shlosha", "arba", "chamisha", "shisha",\
+            "shivah", "shmonah", "tish'ah", "asara", "echad asar",\
+            "shneim asar", "shlosha asar"]
 
 heb_words = ["eloheinu shebashamaim uva'aretz", "luchot ha brit",\
              "avot", "imahot", "chumshei torah", "sidrei mishnah",\
-             "yemei shabatah", "yemei milah", "dibraya", "kochvaya",\
-             "shivtaya", "midaya"]
+             "yemei shabatah", "yemei milah", "yarchei leidah", "dibraya",\
+             "kochvaya", "shivtaya", "midaya"]
 
 def echad_mi_yodea(numbers, words):
     counter = 0
